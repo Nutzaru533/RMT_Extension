@@ -1,0 +1,43 @@
+{
+  "id": "7c92deec-5390-4873-bf8a-1d88cc372e65",
+  "name": "Romantic 2",
+  "publisher": "Bidding Function",
+  "version": "1.0.0.5",
+  "runtime": "5.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "17.0.21485.21516",
+  "contextSensitiveHelpUrl": "https://Romantic.com/help/",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "17.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "17.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "8c677df4-6211-4c4f-b409-849d9e1340b6",
+      "name": "Romantic",
+      "version": "4.1.0.1",
+      "publisher": "RomanticCustomized"
+    },
+    {
+      "id": "9a4fe70b-5237-411d-b6f5-947239983549",
+      "name": "Locallized",
+      "version": "4.1.0.1",
+      "publisher": "BySuthon"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
